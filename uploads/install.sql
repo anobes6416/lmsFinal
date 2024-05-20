@@ -1078,7 +1078,7 @@ INSERT INTO `settings` (`id`, `key`, `value`) VALUES
 ('6', 'phone', '+143-52-9933631'),
 ('7', 'purchase_code', 'your-purchase-code'),
 ('8', 'paypal', '[{\"active\":\"1\",\"mode\":\"sandbox\",\"sandbox_client_id\":\"AY_-L6KttfRzyNieXd07urH4vLHIwpeyfj3zNN5ahTBu2A9N0OUgfjE_KB0Z6ibpbivoOH05YLniPYy1\",\"sandbox_secret_key\":\"EEmsBqTfyBPOCUcJQ4YgfqEeh2NVNTHWnf5GONSgE9yTTwv7otDbUKnqk53an2lHnK24zDZfVUcHt2B3\",\"production_client_id\":\"1234\",\"production_secret_key\":\"1234\"}]'),
-('9', 'stripe_keys', '[{\"active\":\"1\",\"testmode\":\"on\",\"public_key\":\"pk_test_CAC3cB1mhgkJqXtypYBTGb4f\",\"secret_key\":\"sk_test_iatnshcHhQVRXdygXw3L2Pp2\",\"public_live_key\":\"pk_live_xxxxxxxxxxxxxxxxxxxxxxxx\",\"secret_live_key\":\"sk_live_xxxxxxxxxxxxxxxxxxxxxxxx\"}]'),
+-- ('9', 'stripe_keys', '[{\"active\":\"1\",\"testmode\":\"on\",\"public_key\":\"pk_test_CAC3cB1mhgkJqXtypYBTGb4f\",\"secret_key\":\"sk_test_iatnshcHhQVRXdygXw3L2Pp2\",\"public_live_key\":\"pk_live_xxxxxxxxxxxxxxxxxxxxxxxx\",\"secret_live_key\":\"sk_live_xxxxxxxxxxxxxxxxxxxxxxxx\"}]'),
 ('10', 'youtube_api_key', 'youtube-api-key'),
 ('11', 'vimeo_api_key', 'vimeo-api-key'),
 ('12', 'slogan', 'A course based video CMS'),
